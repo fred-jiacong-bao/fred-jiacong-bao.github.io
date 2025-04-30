@@ -19,6 +19,6 @@ I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra.
 
 2. [*"The Impact of ICU Occupancy on Deceased Donor Kidney Offer Acceptance Decisions."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145786).
    Available at SSRN 5145786 (2025). \
-   with Ma, Qiwei, Qiu, Yunzhe, Koizumi, Naoru, Li, Meng-Hao, and Fu, Michael.
-   - This work was supported in part by the National Science Foundation (NSF) under Grants IIS-2123683 and IIS-2123684.
+   with Ma, Qiwei, Qiu, Yunzhe, Koizumi, Naoru, Li, Meng-Hao, and Fu, Michael. \
+   This work was supported in part by the National Science Foundation (NSF) under Grants IIS-2123683 and IIS-2123684.
    - Currently under review at *Operations Research (OR)*
