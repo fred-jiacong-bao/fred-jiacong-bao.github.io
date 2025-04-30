@@ -1,5 +1,6 @@
 title: Fred(Jiacong) Bao
-  
+theme: jekyll-theme-minimal
+
 author:
   name   : "Fred(Jiacong) Bao"
   avatar : "/image/jiacong_bao.jpg"
@@ -10,4 +11,4 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/fred-bao/"
   
-theme: jekyll-theme-minimal
+
