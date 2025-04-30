@@ -6,7 +6,7 @@ My research applies data-driven approaches to social impact areas including chil
 
 I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra.
 
-I received my Bachelor of Economics degree from Southwestern University of Finance and Economics (SWUFE), Chengdu, China, and a Master of Science in Supply Chain Management from Washington University in St. Louis (WashU), St. Louis, US.
+I received my Bachelor of Economics degree from Southwestern University of Finance and Economics (SWUFE), Chengdu, China, and my Master of Science in Supply Chain Management degree from Washington University in St. Louis (WashU), St. Louis, US.
 
 ## Working Papers
 
