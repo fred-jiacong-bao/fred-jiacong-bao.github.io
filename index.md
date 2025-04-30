@@ -6,6 +6,8 @@ My research applies data-driven approaches to social impact areas including chil
 
 I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra.
 
+I received my Bachelor of Economics degree from Southwestern University of Finance and Economics (SWUFE), Chengdu, China, and a Master of Science in Supply Chain Management from Washington University in St. Louis (WashU), St. Louis, US.
+
 ## Working Papers
 
 1. [*"State Mandated Employment Certificate for Minors Reduces Child Labor Violations in the US."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857432). Available at SSRN 4857432 (2024). \
@@ -22,3 +24,9 @@ I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra.
    with Ma, Qiwei, Qiu, Yunzhe, Koizumi, Naoru, Li, Meng-Hao, and Fu, Michael. \
    This work was supported in part by the National Science Foundation (NSF) under Grants IIS-2123683 and IIS-2123684.
    - Currently under review at *Operations Research (OR)*
+
+## Awards
+   1. 2025 POMS College of Sustainable Operations Student Paper Award - finalist
+      
+## Teaching
+   1. BMGT230 Business Statistics, UMD, Summer 2025 
