@@ -1,6 +1,13 @@
 title: Fred(Jiacong) Bao
-logo: image/jiacong_bao.jpg
   
-description: "<h3>Contact</h3><ul><li>Email: your.email@example.com</li><li><a href='https://linkedin.com/in/your-profile'>LinkedIn</a></li><li><a href='https://github.com/your-username'>GitHub</a></li></ul>"
+author:
+  name   : "Fred(Jiacong) Bao"
+  avatar : "/image/jiacong_bao.jpg"
+  bio    : "PhD student in Operations Management"
+  location : "Maryland, United States"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/fred-bao/"
   
 theme: jekyll-theme-minimal
