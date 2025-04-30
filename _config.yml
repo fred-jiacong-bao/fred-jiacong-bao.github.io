@@ -3,7 +3,10 @@ theme: jekyll-theme-minimal
 
 logo: image/jiacong_bao.jpg
   
-description: "<h3>Contact</h3><ul><li>Email: your.email@example.com</li><li><a href='https://linkedin.com/in/your-profile'>LinkedIn</a></li><li><a href='https://github.com/your-username'>GitHub</a></li></ul>"
+description: |
+  <h3>Contact</h3>
+  <p><i class='fas fa-envelope'></i> jcbao@umd.edu</p>
+  <p><i class='fab fa-linkedin'></i> <a href='https://www.linkedin.com/in/fred-bao/'>LinkedIn</a></p>
   
 theme: jekyll-theme-minimal
   
