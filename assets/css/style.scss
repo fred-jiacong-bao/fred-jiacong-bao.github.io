@@ -9,3 +9,12 @@ img[alt=Logo] {
   height: auto;
   object-fit: cover;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;600&display=swap');
+
+.chinese-verse {
+  font-family: 'Noto Serif SC', serif;
+  font-weight: 500;
+  font-size: 1.2em;
+  line-height: 1.8;
+}
