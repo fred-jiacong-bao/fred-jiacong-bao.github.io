@@ -6,9 +6,16 @@ My research applies data-driven approaches to social impact areas including chil
 
 ## Working Papers
 
-1. [*"State Mandated Employment Certificate for Minors Reduces Child Labor Violations in the US."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857432), Available at SSRN 4857432 (2024).
+1. [*"State Mandated Employment Certificate for Minors Reduces Child Labor Violations in the US."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857432). Available at SSRN 4857432 (2024). \
    with Ashish Kabra.  
-   - *Currently under major revision at Production and Operations Management (POM)*
+   - Major revision at *Production and Operations Management (POM)*
+   - 2025 POMS College of Sustainable Operations Student Paper Award - finalist
+   - Media: [*Route Fifty*](https://www.route-fifty.com/workforce/2024/06/work-permits-readily-implemented-lever-reducing-illegal-child-labor/397288/),
+     [*Ecnomic Policy Institute. 1*](https://www.epi.org/blog/more-states-have-strengthened-child-labor-laws-than-weakened-them-in-2024-this-year-state-advocates-were-better-equipped-to-organize-in-opposition-to-harmful-bills/),
+     [*Ecnomic Policy Institute. 2*](https://www.epi.org/blog/new-research-shows-that-work-permits-reduce-child-labor-violations-state-legislators-must-strengthen-not-eliminate-youth-work-permits/)
+     [*Bloomberg Law*]([https://www.epi.org/blog/new-research-shows-that-work-permits-reduce-child-labor-violations-state-legislators-must-strengthen-not-eliminate-youth-work-permits/](https://news.bloomberglaw.com/daily-labor-report/youth-work-permits-targeted-in-broader-child-labor-law-rollbacks))
 
-3. Bao, Fred Jiacong, Qiwei Han, Qiu, Yunzhe, Koizumi, Naoru, Li, Meng-Hao, and Fu, Michael. "The Impact of ICU Occupancy on Deceased Donor Kidney Offer Acceptance Decisions." [*Available at SSRN 5145786*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145786) (2025).
-   - *Currently under review at Operations Research (OR)*
+2. [*"The Impact of ICU Occupancy on Deceased Donor Kidney Offer Acceptance Decisions."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145786).
+   Available at SSRN 5145786 (2025). \
+   with Ma, Qiwei, Qiu, Yunzhe, Koizumi, Naoru, Li, Meng-Hao, and Fu, Michael. 
+   - Currently under review at *Operations Research (OR)*
