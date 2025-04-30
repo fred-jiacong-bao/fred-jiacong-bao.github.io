@@ -1,10 +1,6 @@
 title: Fred(Jiacong) Bao
 logo: image/jiacong_bao.jpg
   
-description: |
-  **Contact**
-    * Email: your.email@example.com
-    * [LinkedIn](your-linkedin-url)
-    * [GitHub](your-github-profile)
+description: "<h3>Contact</h3><ul><li>Email: your.email@example.com</li><li><a href='https://linkedin.com/in/your-profile'>LinkedIn</a></li><li><a href='https://github.com/your-username'>GitHub</a></li></ul>"
   
 theme: jekyll-theme-minimal
