@@ -6,8 +6,12 @@ Hi! I am a Third-Year PhD student in Operations Management and Management Scienc
 ## Working Papers
 - abcd
 - abcd
-
-## Contact
-- Email: your.email@example.com
-- [LinkedIn](your-linkedin-url)
-- [GitHub](your-github-profile-url)
+- 
+<div class="left-content">
+  <img src="image/jiacong_bao.jpg" alt="Fred Bao" class="circular-image">
+  
+  ## Contact
+  * Email: your.email@example.com
+  * [LinkedIn](your-linkedin-url)
+  * [GitHub](your-github-profile)
+</div>
