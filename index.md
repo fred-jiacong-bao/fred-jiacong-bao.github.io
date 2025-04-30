@@ -23,7 +23,7 @@ I received my Bachelor of Economics degree from Southwestern University of Finan
    Available at SSRN 5145786 (2025). \
    with Ma, Qiwei, Qiu, Yunzhe, Koizumi, Naoru, Li, Meng-Hao, and Fu, Michael. \
    This work was supported in part by the National Science Foundation (NSF) under Grants IIS-2123683 and IIS-2123684.
-   - Currently under review at *Operations Research (OR)*
+   - Under review at *Operations Research (OR)*
 
 ## Awards
    1. 2025 POMS College of Sustainable Operations Student Paper Award - finalist
