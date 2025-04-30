@@ -1,6 +1,6 @@
 ## About Me
 
-Hi! I'm a 3rd year PhD student in Operations Management/Management Science at the Robert H. Smith School of Business, University of Maryland.
+Hi! I'm Fred(Jiacong) Bao(鲍嘉聪), a 3rd-year PhD student in Operations Management/Management Science at the Robert H. Smith School of Business, University of Maryland.
 
 My research applies data-driven approaches to social impact areas including child labor, organ transplantation, and other sustainability and healthcare challenges. I primarily employ methods in empirical operations management.
 
