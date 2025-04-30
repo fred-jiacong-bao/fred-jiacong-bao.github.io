@@ -6,7 +6,7 @@ My research applies data-driven approaches to social impact areas including chil
 
 ## Working Papers
 
-1. [*"State Mandated Employment Certificate for Minors Reduces Child Labor Violations in the US."*] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857432), Available at SSRN 4857432 (2024).
+1. [*"State Mandated Employment Certificate for Minors Reduces Child Labor Violations in the US."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857432), Available at SSRN 4857432 (2024).
    with Ashish Kabra.  
    - *Currently under major revision at Production and Operations Management (POM)*
 
