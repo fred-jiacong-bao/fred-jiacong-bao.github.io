@@ -24,7 +24,7 @@ I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra.
    - Under review at *Operations Research (OR)*
 
 ## Awards
-   1. 2025 POMS College of Sustainable Operations Student Paper Award - finalist
+   1. 2025 POMS College of Sustainable Operations Student Paper Award - runner up
       
 ## Teaching
-   1. BMGT230 Business Statistics, UMD, Summer 2025 
+   1. BMGT230 Business Statistics, UMD, Summer 2025
