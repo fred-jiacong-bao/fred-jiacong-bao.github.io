@@ -23,16 +23,16 @@ I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra.
    This work was supported in part by the National Science Foundation (NSF) under Grants IIS-2123683 and IIS-2123684.
    - Under review.
      
-3. [*"Regulatory Enforcement and Supply Chain Reconfiguration."*]()
+3. [*"Regulatory Enforcement and Supply Chain Reconfiguration."*]()\
    with Li, Meng-Hao, Koizumi, Naoru, and Fu, Michael. \
    This work was supported in part by the National Science Foundation (NSF) under Grants IIS-2123683 and IIS-2123684.
    - Prepare for submission.
      
-4. [*"Regulatory Enforcement and Supply Chain Reconfiguration."*]()
+4. [*"Regulatory Enforcement and Supply Chain Reconfiguration."*]()\
    with Ashish Kabra.
    - Work in progress.
      
-5. [*"Optimal Effort Under Kinked Pay-for-Performance."*]().
+5. [*"Optimal Effort Under Kinked Pay-for-Performance."*]().\
    with Silberholz, John, and Fu, Michael.
    - Work in progress.
 
