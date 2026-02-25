@@ -8,7 +8,7 @@ I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra.
 
 ## Working Papers
 
-1. [*"State Mandated Employment Certificate for Minors Reduces Child Labor Violations in the US."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857432). Available at SSRN 4857432 (2024). \
+1. [*"State Mandated Employment Certificate for Minors Reduces Child Labor Violations in the US."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857432) Available at SSRN 4857432 (2024). \
    with Ashish Kabra.  
    - Major revision at *Production and Operations Management (POM)*
    - 2025 POMS College of Sustainable Operations Student Paper Award - finalist
@@ -17,11 +17,24 @@ I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra.
      [*Ecnomic Policy Institute.2*](https://www.epi.org/blog/new-research-shows-that-work-permits-reduce-child-labor-violations-state-legislators-must-strengthen-not-eliminate-youth-work-permits/), 
      [*Bloomberg Law*](https://news.bloomberglaw.com/daily-labor-report/youth-work-permits-targeted-in-broader-child-labor-law-rollbacks)
 
-2. [*"The Impact of ICU Occupancy on Deceased Donor Kidney Offer Acceptance Decisions."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145786).
+2. [*"The Impact of ICU Occupancy on Deceased Donor Kidney Offer Acceptance Decisions."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145786)
    Available at SSRN 5145786 (2025). \
    with Ma, Qiwei, Qiu, Yunzhe, Koizumi, Naoru, Li, Meng-Hao, and Fu, Michael. \
    This work was supported in part by the National Science Foundation (NSF) under Grants IIS-2123683 and IIS-2123684.
    - Under review.
+     
+3. [*"Regulatory Enforcement and Supply Chain Reconfiguration."*]()
+   with Li, Meng-Hao, Koizumi, Naoru, and Fu, Michael. \
+   This work was supported in part by the National Science Foundation (NSF) under Grants IIS-2123683 and IIS-2123684.
+   - Prepare for submission.
+     
+4. [*"Regulatory Enforcement and Supply Chain Reconfiguration."*]()
+   with Ashish Kabra.
+   - Work in progress.
+     
+5. [*"Optimal Effort Under Kinked Pay-for-Performance."*]().
+   with Silberholz, John, and Fu, Michael.
+   - Work in progress.
 
 ## Awards
    1. 2025 POMS College of Sustainable Operations Student Paper Award - runner up
