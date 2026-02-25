@@ -9,7 +9,7 @@ I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra.
 ## Working Papers
 
 1. [*"State Mandated Employment Certificate for Minors Reduces Child Labor Violations in the US."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857432) Available at SSRN 4857432 (2024). \
-   with Ashish Kabra.  
+   with Kabra, Ashish.  
    - Major revision at *Production and Operations Management (POM)*
    - 2025 POMS College of Sustainable Operations Student Paper Award - finalist
    - Media: [*Route Fifty*](https://www.route-fifty.com/workforce/2024/06/work-permits-readily-implemented-lever-reducing-illegal-child-labor/397288/), 
@@ -29,7 +29,7 @@ I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra.
    - Prepare for submission.
      
 4. [*"Regulatory Enforcement and Supply Chain Reconfiguration."*]()\
-   with Ashish Kabra.
+   with Kabra, Ashish.
    - Work in progress.
      
 5. [*"Optimal Effort Under Kinked Pay-for-Performance."*]()\
