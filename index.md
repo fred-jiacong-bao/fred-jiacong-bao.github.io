@@ -23,7 +23,7 @@ I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra.
    This work was supported in part by the National Science Foundation (NSF) under Grants IIS-2123683 and IIS-2123684.
    - Under review.
      
-3. [*"Regulatory Enforcement and Supply Chain Reconfiguration."*]()\
+3. [*"Hospital Performance Impact on Deceased Donor Kidney Offer Acceptance."*]()\
    with Li, Meng-Hao, Koizumi, Naoru, and Fu, Michael. \
    This work was supported in part by the National Science Foundation (NSF) under Grants IIS-2123683 and IIS-2123684.
    - Prepare for submission.
