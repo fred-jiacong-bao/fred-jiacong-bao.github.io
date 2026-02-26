@@ -12,6 +12,7 @@ I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra.
    with Kabra, Ashish.  
    - Major revision at *Production and Operations Management (POM)*
    - 2025 POMS College of Sustainable Operations Student Paper Award - finalist
+   - 2025 MSOM Sustainable Operations SIG
    - Media: [*Route Fifty*](https://www.route-fifty.com/workforce/2024/06/work-permits-readily-implemented-lever-reducing-illegal-child-labor/397288/), 
      [*Ecnomic Policy Institute.1*](https://www.epi.org/blog/more-states-have-strengthened-child-labor-laws-than-weakened-them-in-2024-this-year-state-advocates-were-better-equipped-to-organize-in-opposition-to-harmful-bills/), 
      [*Ecnomic Policy Institute.2*](https://www.epi.org/blog/new-research-shows-that-work-permits-reduce-child-labor-violations-state-legislators-must-strengthen-not-eliminate-youth-work-permits/), 
