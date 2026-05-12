@@ -4,14 +4,16 @@ Hi! I'm Fred(Jiacong) Bao(鲍嘉聪), a 4th-year PhD student in Operations Manag
 
 I conduct empirical research in social impact areas, including child labor, organ transplantation, and other sustainability and healthcare challenges. 
 
-I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra.
+I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra. 
+
+I’m on the 2026-2027 job market.
 
 ## Working Papers
 
 1. [*"State Mandated Employment Certificate for Minors Reduces Child Labor Violations in the US."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857432) Available at SSRN 4857432 (2024). \
    with Kabra, Ashish.  
    - Major revision at *Production and Operations Management (POM)*
-   - 2025 POMS College of Sustainable Operations Student Paper Award - finalist
+   - 2025 POMS College of Sustainable Operations Student Paper Award - runner-up
    - 2025 MSOM Sustainable Operations SIG
    - Media: [*Route Fifty*](https://www.route-fifty.com/workforce/2024/06/work-permits-readily-implemented-lever-reducing-illegal-child-labor/397288/), 
      [*Ecnomic Policy Institute.1*](https://www.epi.org/blog/more-states-have-strengthened-child-labor-laws-than-weakened-them-in-2024-this-year-state-advocates-were-better-equipped-to-organize-in-opposition-to-harmful-bills/), 
@@ -24,21 +26,19 @@ I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra.
    This work was supported in part by the National Science Foundation (NSF) under Grants IIS-2123683 and IIS-2123684.
    - Under review.
      
-3. [*"Hospital Performance Impact on Deceased Donor Kidney Offer Acceptance."*]()\
-   with Li, Meng-Hao, Koizumi, Naoru, and Fu, Michael. \
-   This work was supported in part by the National Science Foundation (NSF) under Grants IIS-2123683 and IIS-2123684.
-   - Prepare for submission.
-     
-4. [*"Regulatory Enforcement and Supply Chain Reconfiguration."*]()\
-   with Kabra, Ashish.
+3. [*"Child Labor Violations and Supply Chain Restructuring in the United States."*]()\
+   with Kabra, Ashish, and Elmaghraby, Wedad.
    - Work in progress.
      
-5. [*"Optimal Effort Under Kinked Pay-for-Performance."*]()\
+4. [*"Optimal Effort Under Max-Operator Pay-For-Performance."*]()\
    with Silberholz, John, and Fu, Michael.
    - Work in progress.
+  
+## Other Research
+
 
 ## Awards
-   1. 2025 POMS College of Sustainable Operations Student Paper Award - runner up
+   1. 2025 POMS College of Sustainable Operations Student Paper Award - runner-up
       
 ## Teaching
    1. BMGT230 Business Statistics, UMD, Summer 2025
