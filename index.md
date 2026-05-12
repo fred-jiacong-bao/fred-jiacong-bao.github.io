@@ -20,8 +20,10 @@ I’m on the 2026-2027 academic job market.
       - 2025 POMS, INFORMS, MSOM (Sustainble Operations SIG) annual conferences.
    - Media: [*Route Fifty*](https://www.route-fifty.com/workforce/2024/06/work-permits-readily-implemented-lever-reducing-illegal-child-labor/397288/), 
      [*Ecnomic Policy Institute.1*](https://www.epi.org/blog/more-states-have-strengthened-child-labor-laws-than-weakened-them-in-2024-this-year-state-advocates-were-better-equipped-to-organize-in-opposition-to-harmful-bills/), 
-     [*Ecnomic Policy Institute.2*](https://www.epi.org/blog/new-research-shows-that-work-permits-reduce-child-labor-violations-state-legislators-must-strengthen-not-eliminate-youth-work-permits/), 
+     [*Ecnomic Policy Institute.2*](https://www.epi.org/blog/new-research-shows-that-work-permits-reduce-child-labor-violations-state-legislators-must-strengthen-not-eliminate-youth-work-permits/),
+     [*Ecnomic Policy Institute.3*](https://www.epi.org/blog/new-research-reveals-how-work-permits-reduce-child-labor-violations/), 
      [*Bloomberg Law*](https://news.bloomberglaw.com/daily-labor-report/youth-work-permits-targeted-in-broader-child-labor-law-rollbacks)
+   - Policy/legislation citations: [*Arkansas AR HB1731*](https://www.billtrack50.com/billdetail/1858937)
 
 2. [*"The Impact of ICU Occupancy on Deceased Donor Kidney Offer Acceptance Decisions."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145786)
    Available at SSRN 5145786 (2025). \
