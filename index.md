@@ -51,7 +51,7 @@ I’m on the 2026-2027 academic job market.
    - Under review.
      
 ## Awards
-   1. 2026 Long Jiang Graduate Student Fellowship | Robert H. Smith School of Business, University of Maryland
+   1. 2026 Long Jiang Graduate Student Fellowship \| Robert H. Smith School of Business, University of Maryland
    2. 2025 POMS College of Sustainable Operations Student Paper Award - runner-up
       
 ## Teaching
