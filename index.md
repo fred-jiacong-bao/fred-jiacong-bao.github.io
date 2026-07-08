@@ -17,7 +17,7 @@ I’m on the 2026-2027 academic job market.
    - Presented at:
       - 2023 POMS, INFORMS annual conferences; 
       - 2024 POMS, INFORMS, MSOM annual conferences; Early-Career Sustainable Operations Workshop (Flash talk);
-      - 2025 POMS, INFORMS, MSOM (Sustainble Operations SIG) annual conferences.
+      - 2025 POMS, INFORMS, MSOM (Sustainable Operations SIG) annual conferences.
    - Media: [*Route Fifty*](https://www.route-fifty.com/workforce/2024/06/work-permits-readily-implemented-lever-reducing-illegal-child-labor/397288/), 
      [*Ecnomic Policy Institute.1*](https://www.epi.org/blog/more-states-have-strengthened-child-labor-laws-than-weakened-them-in-2024-this-year-state-advocates-were-better-equipped-to-organize-in-opposition-to-harmful-bills/), 
      [*Ecnomic Policy Institute.2*](https://www.epi.org/blog/new-research-shows-that-work-permits-reduce-child-labor-violations-state-legislators-must-strengthen-not-eliminate-youth-work-permits/),
