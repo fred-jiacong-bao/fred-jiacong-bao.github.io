@@ -1,0 +1,6 @@
+# Add one entry per photo. `image` is the path under /image/photography/,
+# `caption` is optional and shown under the thumbnail.
+#
+# Example:
+# - image: sunset-lake.jpg
+#   caption: "Sunset over the lake, 2025"
