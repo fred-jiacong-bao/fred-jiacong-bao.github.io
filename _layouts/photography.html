@@ -4,18 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }} · {{ site.title }}</title>
+    <link rel="icon" type="image/png" href="{{ "/image/favicon.png" | relative_url }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@300;400&family=Inter:wght@400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ "/assets/css/photography.css" | relative_url }}">
   </head>
   <body>
+    <div id="page-transition" class="active" aria-hidden="true"></div>
     <nav class="photo-nav">
-      <a href="{{ "/" | relative_url }}" class="photo-nav-mark">{{ site.title }}</a>
-      <a href="{{ "/photography/" | relative_url }}" class="photo-nav-back">Gallery</a>
+      <a href="{{ "/" | relative_url }}" class="photo-nav-mark photo-link">{{ site.title }}</a>
+      <a href="{{ "/" | relative_url }}" class="photo-nav-back photo-link">Home</a>
     </nav>
     <main class="photo-main">
       {{ content }}
     </main>
+    <script src="{{ "/assets/js/page-transition.js" | relative_url }}" defer></script>
   </body>
 </html>

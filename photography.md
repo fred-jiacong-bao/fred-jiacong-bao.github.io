@@ -1,14 +1,51 @@
 ---
 title: Photography
-layout: photography-index
+layout: photography
 permalink: /photography/
 ---
 
-<h1 class="landing-title">Photography</h1>
+{% assign wl = site.data.photography.wildlife %}
+<section class="photo-section">
+  {% if wl.hero %}
+  <div class="photo-hero">
+    <img src="{{ "/image/photography/" | append: wl.hero.file | relative_url }}" alt="">
+    {% if wl.hero.caption %}<p class="hero-caption">{{ wl.hero.caption }}</p>{% endif %}
+  </div>
+  {% endif %}
 
-<nav class="landing-nav">
-  <a href="{{ "/photography/landscape/" | relative_url }}">Landscape</a>
-  <a href="{{ "/photography/wildlife/" | relative_url }}">Wildlife</a>
-</nav>
+  {% if wl.grid.size > 0 %}
+  <div class="photo-grid">
+    {% for photo in wl.grid %}
+    <figure class="photo-tile">
+      <img src="{{ "/image/photography/" | append: photo.file | relative_url }}" alt="">
+      {% if photo.caption %}<figcaption>{{ photo.caption }}</figcaption>{% endif %}
+    </figure>
+    {% endfor %}
+  </div>
+  {% endif %}
+</section>
 
-<p class="landing-footer"><a href="{{ "/" | relative_url }}">{{ site.title }}</a></p>
+<div class="section-title"><span>Landscape</span></div>
+
+{% assign ls = site.data.photography.landscape %}
+<section class="photo-section">
+  {% if ls.hero %}
+  <div class="photo-hero">
+    <img src="{{ "/image/photography/" | append: ls.hero.file | relative_url }}" alt="">
+    {% if ls.hero.caption %}<p class="hero-caption">{{ ls.hero.caption }}</p>{% endif %}
+  </div>
+  {% endif %}
+
+  {% if ls.grid.size > 0 %}
+  <div class="photo-grid">
+    {% for photo in ls.grid %}
+    <figure class="photo-tile">
+      <img src="{{ "/image/photography/" | append: photo.file | relative_url }}" alt="">
+      {% if photo.caption %}<figcaption>{{ photo.caption }}</figcaption>{% endif %}
+    </figure>
+    {% endfor %}
+  </div>
+  {% else %}
+  <p class="photo-coming-soon">Coming soon.</p>
+  {% endif %}
+</section>

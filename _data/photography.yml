@@ -1,41 +1,68 @@
 # Each category has a `hero` (large full-bleed image, optional) and a `grid`
-# list (masonry grid below it). Images live in /image/photography/.
+# list (masonry grid below it). Images live in /image/photography/. Each
+# entry is {file, caption}. Leave caption blank if location is unconfirmed.
 wildlife:
-  hero: wildlife-bears-fishing.jpg
+  hero:
+    file: wildlife-bears-fishing.jpg
+    caption: Brooks Falls, Alaska
   grid:
-    - wildlife-bear-with-fish.jpg
-    - wildlife-bears-riverbank.jpg
-    - wildlife-whale-fins.jpg
-    - wildlife-bald-eagle.jpg
-    - wildlife-sheep.jpg
-    - wildlife-llama-machu-picchu.jpg
+    - file: wildlife-bear-with-fish.jpg
+      caption: Brooks Falls, Alaska
+    - file: wildlife-bears-riverbank.jpg
+      caption: Katmai National Park, Alaska
+    - file: wildlife-whale-fins.jpg
+      caption: Azores, Portugal
+    - file: wildlife-bald-eagle.jpg
+      caption: Alaska
+    - file: wildlife-sheep.jpg
+      caption: Isle of Skye, Scotland
+    - file: wildlife-llama-machu-picchu.jpg
+      caption: Machu Picchu, Peru
 
 landscape:
-  hero: landscape-azores-sete-cidades.jpg
+  hero:
+    file: landscape-01-sete-cidades.jpg
+    caption: Sete Cidades, Portugal
   grid:
-    # Azores
-    - landscape-azores-village.jpg
-    - landscape-azores-pico-vineyard.jpg
-    - landscape-azores-pico-lake.jpg
-    - landscape-azores-pico-winery.jpg
-    - landscape-azores-coastline.jpg
-    - landscape-azores-waterfalls.jpg
-    - landscape-azores-milky-way.jpg
-    # Scotland
-    - landscape-scotland-old-man-of-storr.jpg
-    - landscape-scotland-storr-pinnacle.jpg
-    - landscape-scotland-neist-point.jpg
-    - landscape-scotland-glencoe.jpg
-    - landscape-scotland-moonrise.jpg
-    - landscape-scotland-campervan.jpg
-    - landscape-scotland-rainbow.jpg
-    # China
-    - landscape-china-horse-rider.jpg
-    - landscape-china-green-hills.jpg
-    - landscape-china-viaduct.jpg
-    - landscape-china-boardwalk.jpg
-    # Peru
-    - landscape-peru-machu-picchu.jpg
-    # Coast / glacier
-    - landscape-coast-glacier.jpg
-    - landscape-coast-waves.jpg
+    - file: landscape-02-azores-village.jpg
+      caption: Azores, Portugal
+    - file: landscape-03-pico-vineyard.jpg
+      caption: Pico Island, Azores, Portugal
+    - file: landscape-04-pico-lake.jpg
+      caption: Pico Island, Azores, Portugal
+    - file: landscape-05-pico-winery.jpg
+      caption: Pico Island, Azores, Portugal
+    - file: landscape-06-azores-coastline.jpg
+      caption: Azores, Portugal
+    - file: landscape-07-flores-waterfalls.jpg
+      caption: Flores Island, Azores, Portugal
+    - file: landscape-08-milky-way.jpg
+      caption:
+    - file: landscape-09-old-man-of-storr.jpg
+      caption: Isle of Skye, Scotland
+    - file: landscape-10-storr-pinnacle.jpg
+      caption: Isle of Skye, Scotland
+    - file: landscape-11-neist-point.jpg
+      caption: Isle of Skye, Scotland
+    - file: landscape-12-glencoe.jpg
+      caption: Glen Coe, Scotland
+    - file: landscape-13-skye-moonrise.jpg
+      caption: Isle of Skye, Scotland
+    - file: landscape-14-skye-campervan.jpg
+      caption: Isle of Skye, Scotland
+    - file: landscape-15-scotland-rainbow.jpg
+      caption: Scotland
+    - file: landscape-16-china-horse-rider.jpg
+      caption: China
+    - file: landscape-17-china-green-hills.jpg
+      caption: China
+    - file: landscape-18-china-viaduct.jpg
+      caption: China
+    - file: landscape-19-china-boardwalk.jpg
+      caption: China
+    - file: landscape-20-machu-picchu.jpg
+      caption: Machu Picchu, Peru
+    - file: landscape-21-alaska-glacier.jpg
+      caption: Alaska
+    - file: landscape-22-atlantic-coast.jpg
+      caption:

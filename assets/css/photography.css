@@ -11,6 +11,30 @@ html, body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
+/* ---- page transition overlay ---- */
+
+#page-transition {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #0a0a0a;
+  opacity: 1;
+  pointer-events: none;
+  z-index: 9999;
+  transition: opacity 0.4s ease;
+}
+
+#page-transition.active {
+  opacity: 1;
+  pointer-events: all;
+}
+
+#page-transition:not(.active) {
+  opacity: 0;
+}
+
 /* ---- nav ---- */
 
 .photo-nav {
@@ -46,9 +70,39 @@ html, body {
   margin-bottom: 6vh;
 }
 
+/* ---- section titles ---- */
+
+.section-title {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  max-width: 900px;
+  margin: 10vh auto 6vh;
+  padding: 0 1.5rem;
+}
+
+.section-title::before,
+.section-title::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: rgba(242, 240, 236, 0.18);
+}
+
+.section-title span {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 300;
+  font-size: clamp(1.4rem, 3vw, 2.2rem);
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #f2f0ec;
+  white-space: nowrap;
+}
+
 /* ---- hero image ---- */
 
 .photo-hero {
+  position: relative;
   width: 100%;
   line-height: 0;
 }
@@ -60,36 +114,62 @@ html, body {
   display: block;
 }
 
-/* ---- masonry grid ---- */
+.photo-hero .hero-caption {
+  position: absolute;
+  left: 2rem;
+  bottom: 2rem;
+  margin: 0;
+  font-size: 0.8rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.7);
+}
+
+/* ---- grid (row-major order, not CSS columns) ---- */
 
 .photo-grid {
-  column-count: 3;
-  column-gap: 4px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4px;
   padding: 4px;
 }
 
-.photo-grid img {
-  width: 100%;
-  display: block;
-  margin-bottom: 4px;
-  break-inside: avoid;
-  filter: brightness(0.96);
-  transition: filter 0.25s ease, transform 0.25s ease;
+.photo-tile {
+  margin: 0;
+  position: relative;
 }
 
-.photo-grid img:hover {
+.photo-tile img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  display: block;
+  filter: brightness(0.96);
+  transition: filter 0.25s ease;
+}
+
+.photo-tile:hover img {
   filter: brightness(1.05);
+}
+
+.photo-tile figcaption {
+  margin-top: 6px;
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(242, 240, 236, 0.55);
 }
 
 @media (max-width: 900px) {
   .photo-grid {
-    column-count: 2;
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
 @media (max-width: 540px) {
   .photo-grid {
-    column-count: 1;
+    grid-template-columns: 1fr;
   }
   .photo-hero img {
     height: 70vh;

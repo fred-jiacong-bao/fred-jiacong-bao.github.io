@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="{{ "/image/favicon.png" | relative_url }}">
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -30,7 +31,7 @@
         <a href="{{ "/" | relative_url }}">Research</a>
         <a href="{{ "/teaching-and-service/" | relative_url }}">Teaching and Services</a>
         <a href="{{ "/files/cv_jiacong_fred_bao.pdf" | relative_url }}" download>CV</a>
-        <a href="{{ "/photography/" | relative_url }}">Photography</a>
+        <a href="{{ "/photography/" | relative_url }}" class="photo-link">Photography</a>
       </nav>
 
       {{ content }}
@@ -44,5 +45,6 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/page-transition.js" | relative_url }}" defer></script>
   </body>
 </html>
