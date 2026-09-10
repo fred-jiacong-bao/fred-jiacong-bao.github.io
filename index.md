@@ -4,7 +4,7 @@ Hi! I'm Jiacong "Fred" Bao (鲍嘉聪), a 5th-year PhD candidate in Operations M
 I conduct empirical research in social impact areas, including child labor, organ transplantation, and other sustainability and healthcare challenges.
 I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra.
 
-I'm on the 2026-2027 academic job market.
+I'm on the 2026-2027 academic job market. This is my <a href="files/cv_jiacong_fred_bao.pdf" download>CV</a>.
 
 ## Working Papers
 1. [*"Child Labor Violations and Supply Chain Restructuring in the United States."*]() \
