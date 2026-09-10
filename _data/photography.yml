@@ -10,14 +10,22 @@ wildlife:
       caption: Brooks Falls, Alaska
     - file: wildlife-bears-riverbank.jpg
       caption: Katmai National Park, Alaska
-    - file: wildlife-whale-fins.jpg
-      caption: Pico Island, Azores, Portugal
+    - file: wildlife-seagull-seward.jpg
+      caption: Seward, Alaska
     - file: wildlife-bald-eagle.jpg
       caption: Seward, Alaska
+    - file: wildlife-whale-fins.jpg
+      caption: Lajes do Pico, Azores, Portugal
+    - file: wildlife-dolphin-tail-pico.jpg
+      caption: Lajes do Pico, Azores, Portugal
+    - file: wildlife-dolphins-pico.jpg
+      caption: Lajes do Pico, Azores, Portugal
     - file: wildlife-sheep.jpg
       caption: Isle of Skye, Scotland
     - file: wildlife-llama-machu-picchu.jpg
       caption: Machu Picchu, Peru
+    - file: wildlife-my-cat.jpg
+      caption: My Cat
 
 landscape:
   hero:
@@ -46,23 +54,27 @@ landscape:
       caption: Neist Point, Scotland
     - file: landscape-12-glencoe.jpg
       caption: Glen Coe, Scotland
-    - file: landscape-13-skye-moonrise.jpg
+    - file: landscape-13-scotland-highlands.jpg
+      caption: Scottish Highlands
+    - file: landscape-14-skye-moonrise.jpg
       caption: Isle of Skye, Scotland
-    - file: landscape-14-skye-campervan.jpg
+    - file: landscape-15-skye-campervan.jpg
       caption: Isle of Skye, Scotland
-    - file: landscape-15-scotland-rainbow.jpg
+    - file: landscape-16-scotland-rainbow.jpg
       caption: Scotland
-    - file: landscape-16-china-horse-rider.jpg
+    - file: landscape-17-china-horse-rider.jpg
       caption: Xinjiang, China
-    - file: landscape-17-china-green-hills.jpg
+    - file: landscape-18-china-green-hills.jpg
       caption: Xinjiang, China
-    - file: landscape-18-china-viaduct.jpg
+    - file: landscape-19-china-viaduct.jpg
       caption: Xinjiang, China
-    - file: landscape-19-china-boardwalk.jpg
+    - file: landscape-20-china-boardwalk.jpg
       caption: Xinjiang, China
-    - file: landscape-20-machu-picchu.jpg
+    - file: landscape-21-machu-picchu.jpg
       caption: Machu Picchu, Peru
-    - file: landscape-21-alaska-glacier.jpg
+    - file: landscape-22-denali.jpg
+      caption: Denali, Alaska
+    - file: landscape-23-alaska-glacier.jpg
       caption: Kenai Fjords, Alaska
-    - file: landscape-22-atlantic-coast.jpg
+    - file: landscape-24-atlantic-coast.jpg
       caption: Cascais, Portugal
