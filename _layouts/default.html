@@ -18,27 +18,12 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
         <nav class="site-nav">
-          <a href="{{ "/research/" | relative_url }}">Research</a>
+          <a href="{{ "/" | relative_url }}">Research</a>
           <a href="{{ "/teaching-and-service/" | relative_url }}">Teaching and Services</a>
           <a href="{{ "/files/cv_jiacong_fred_bao.pdf" | relative_url }}" download>CV</a>
           <a href="{{ "/photography/" | relative_url }}">Photography</a>
         </nav>
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
       </header>
       <section>
 
