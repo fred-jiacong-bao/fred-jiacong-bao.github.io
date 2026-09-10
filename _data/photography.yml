@@ -11,5 +11,31 @@ wildlife:
     - wildlife-llama-machu-picchu.jpg
 
 landscape:
-  hero:
-  grid: []
+  hero: landscape-azores-sete-cidades.jpg
+  grid:
+    # Azores
+    - landscape-azores-village.jpg
+    - landscape-azores-pico-vineyard.jpg
+    - landscape-azores-pico-lake.jpg
+    - landscape-azores-pico-winery.jpg
+    - landscape-azores-coastline.jpg
+    - landscape-azores-waterfalls.jpg
+    - landscape-azores-milky-way.jpg
+    # Scotland
+    - landscape-scotland-old-man-of-storr.jpg
+    - landscape-scotland-storr-pinnacle.jpg
+    - landscape-scotland-neist-point.jpg
+    - landscape-scotland-glencoe.jpg
+    - landscape-scotland-moonrise.jpg
+    - landscape-scotland-campervan.jpg
+    - landscape-scotland-rainbow.jpg
+    # China
+    - landscape-china-horse-rider.jpg
+    - landscape-china-green-hills.jpg
+    - landscape-china-viaduct.jpg
+    - landscape-china-boardwalk.jpg
+    # Peru
+    - landscape-peru-machu-picchu.jpg
+    # Coast / glacier
+    - landscape-coast-glacier.jpg
+    - landscape-coast-waves.jpg

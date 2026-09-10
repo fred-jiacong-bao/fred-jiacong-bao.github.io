@@ -42,66 +42,8 @@ html, body {
   opacity: 1;
 }
 
-/* ---- intro ---- */
-
-.photo-intro {
-  min-height: 40vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  padding: 8rem 1.5rem 3rem;
-}
-
-.photo-intro h1 {
-  margin: 0;
-  font-family: 'Playfair Display', Georgia, serif;
-  font-weight: 300;
-  font-size: clamp(2.75rem, 8vw, 5.5rem);
-  letter-spacing: 0.03em;
-  color: #f2f0ec;
-}
-
-.photo-subtitle {
-  margin: 1rem 0 0;
-  font-size: 0.8rem;
-  letter-spacing: 0.3em;
-  text-transform: uppercase;
-  color: rgba(242, 240, 236, 0.5);
-}
-
-/* ---- section titles ---- */
-
 .photo-section {
   margin-bottom: 6vh;
-}
-
-.section-title {
-  display: flex;
-  align-items: center;
-  gap: 2rem;
-  max-width: 900px;
-  margin: 10vh auto 4vh;
-  padding: 0 1.5rem;
-}
-
-.section-title::before,
-.section-title::after {
-  content: "";
-  flex: 1;
-  height: 1px;
-  background: rgba(242, 240, 236, 0.18);
-}
-
-.section-title span {
-  font-family: 'Playfair Display', Georgia, serif;
-  font-weight: 300;
-  font-size: clamp(1.4rem, 3vw, 2.2rem);
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  color: #f2f0ec;
-  white-space: nowrap;
 }
 
 /* ---- hero image ---- */
@@ -113,7 +55,7 @@ html, body {
 
 .photo-hero img {
   width: 100%;
-  height: 88vh;
+  height: 100vh;
   object-fit: cover;
   display: block;
 }
@@ -150,7 +92,7 @@ html, body {
     column-count: 1;
   }
   .photo-hero img {
-    height: 60vh;
+    height: 70vh;
   }
 }
 

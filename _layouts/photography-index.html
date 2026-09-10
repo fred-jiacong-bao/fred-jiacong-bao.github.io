@@ -7,14 +7,10 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@300;400&family=Inter:wght@400;500&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="{{ "/assets/css/photography.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/photography-index.css" | relative_url }}">
   </head>
   <body>
-    <nav class="photo-nav">
-      <a href="{{ "/" | relative_url }}" class="photo-nav-mark">{{ site.title }}</a>
-      <a href="{{ "/photography/" | relative_url }}" class="photo-nav-back">Gallery</a>
-    </nav>
-    <main class="photo-main">
+    <main class="landing">
       {{ content }}
     </main>
   </body>
