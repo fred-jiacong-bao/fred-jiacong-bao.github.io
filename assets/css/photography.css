@@ -1,0 +1,171 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #0a0a0a;
+  color: #f2f0ec;
+  overflow-x: hidden;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* ---- nav ---- */
+
+.photo-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 20;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.75rem 2.5rem;
+  mix-blend-mode: difference;
+  pointer-events: none;
+}
+
+.photo-nav a {
+  pointer-events: auto;
+  color: #fff;
+  text-decoration: none;
+  font-size: 0.7rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  opacity: 0.75;
+  transition: opacity 0.2s ease;
+}
+
+.photo-nav a:hover {
+  opacity: 1;
+}
+
+/* ---- intro ---- */
+
+.photo-intro {
+  min-height: 40vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 8rem 1.5rem 3rem;
+}
+
+.photo-intro h1 {
+  margin: 0;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 300;
+  font-size: clamp(2.75rem, 8vw, 5.5rem);
+  letter-spacing: 0.03em;
+  color: #f2f0ec;
+}
+
+.photo-subtitle {
+  margin: 1rem 0 0;
+  font-size: 0.8rem;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: rgba(242, 240, 236, 0.5);
+}
+
+/* ---- section titles ---- */
+
+.photo-section {
+  margin-bottom: 6vh;
+}
+
+.section-title {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  max-width: 900px;
+  margin: 10vh auto 4vh;
+  padding: 0 1.5rem;
+}
+
+.section-title::before,
+.section-title::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: rgba(242, 240, 236, 0.18);
+}
+
+.section-title span {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 300;
+  font-size: clamp(1.4rem, 3vw, 2.2rem);
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #f2f0ec;
+  white-space: nowrap;
+}
+
+/* ---- hero image ---- */
+
+.photo-hero {
+  width: 100%;
+  line-height: 0;
+}
+
+.photo-hero img {
+  width: 100%;
+  height: 88vh;
+  object-fit: cover;
+  display: block;
+}
+
+/* ---- masonry grid ---- */
+
+.photo-grid {
+  column-count: 3;
+  column-gap: 4px;
+  padding: 4px;
+}
+
+.photo-grid img {
+  width: 100%;
+  display: block;
+  margin-bottom: 4px;
+  break-inside: avoid;
+  filter: brightness(0.96);
+  transition: filter 0.25s ease, transform 0.25s ease;
+}
+
+.photo-grid img:hover {
+  filter: brightness(1.05);
+}
+
+@media (max-width: 900px) {
+  .photo-grid {
+    column-count: 2;
+  }
+}
+
+@media (max-width: 540px) {
+  .photo-grid {
+    column-count: 1;
+  }
+  .photo-hero img {
+    height: 60vh;
+  }
+}
+
+/* ---- coming soon ---- */
+
+.photo-coming-soon {
+  text-align: center;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  font-weight: 300;
+  font-size: 1.1rem;
+  color: rgba(242, 240, 236, 0.4);
+  padding: 6vh 1.5rem 14vh;
+}
+
+.photo-main {
+  padding-bottom: 10vh;
+}

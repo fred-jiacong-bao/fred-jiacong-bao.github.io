@@ -1,6 +1,15 @@
-# Add one entry per photo. `image` is the path under /image/photography/,
-# `caption` is optional and shown under the thumbnail.
-#
-# Example:
-# - image: sunset-lake.jpg
-#   caption: "Sunset over the lake, 2025"
+# Each category has a `hero` (large full-bleed image, optional) and a `grid`
+# list (masonry grid below it). Images live in /image/photography/.
+wildlife:
+  hero: wildlife-bears-fishing.jpg
+  grid:
+    - wildlife-bear-with-fish.jpg
+    - wildlife-bears-riverbank.jpg
+    - wildlife-whale-fins.jpg
+    - wildlife-bald-eagle.jpg
+    - wildlife-sheep.jpg
+    - wildlife-llama-machu-picchu.jpg
+
+landscape:
+  hero:
+  grid: []
