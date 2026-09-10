@@ -42,8 +42,7 @@ I'm on the 2026-2027 academic job market.
       - 2025 MSOM annual conference (Poster session).
 
 4. *"Optimal Effort Under Max-Operator Pay-For-Performance."* \
-   with Silberholz, John, and Fu, Michael.
-   This work was supported in part by the National Science Foundation (NSF) under Grants IIS-2123683 and IIS-2123684.
+   with Silberholz, John, and Fu, Michael.、
    - Work in progress.
 
 ## Other Interdisciplinary Research
