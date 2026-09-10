@@ -135,7 +135,7 @@ html, body {
 .photo-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  align-items: start;
+  grid-auto-rows: 8px;
   gap: 4px 4px;
   padding: 4px;
 }
