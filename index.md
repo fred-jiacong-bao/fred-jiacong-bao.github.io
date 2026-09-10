@@ -7,7 +7,7 @@ I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra.
 I'm on the 2026-2027 academic job market.
 
 ## Working Papers
-1. [*"Child Labor Violations and Supply Chain Restructuring in the United States."*]() \
+1. *"Child Labor Violations and Supply Chain Restructuring in the United States."* \
    with Kabra, Ashish, and Elmaghraby, Wedad.
    - Job Market Paper.
    - Work in progress.
@@ -41,13 +41,13 @@ I'm on the 2026-2027 academic job market.
    - Presented at:
       - 2025 MSOM annual conference (Poster session).
 
-4. [*"Optimal Effort Under Max-Operator Pay-For-Performance."*]() \
+4. *"Optimal Effort Under Max-Operator Pay-For-Performance."* \
    with Silberholz, John, and Fu, Michael.
    This work was supported in part by the National Science Foundation (NSF) under Grants IIS-2123683 and IIS-2123684.
    - Work in progress.
 
 ## Other Interdisciplinary Research
-1. [*"Hospital Performance Impact on Deceased Donor Kidney Offer Acceptance."*]() \
+1. *"Hospital Performance Impact on Deceased Donor Kidney Offer Acceptance."* \
    with Koizumi, Naoru, Li, Meng-Hao, and Fu, Michael.
    - Under review.
 
