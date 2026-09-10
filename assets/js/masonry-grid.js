@@ -3,17 +3,22 @@
     var styles = getComputedStyle(grid);
     var rowHeight = parseFloat(styles.getPropertyValue('grid-auto-rows'));
     var rowGap = parseFloat(styles.getPropertyValue('row-gap') || styles.getPropertyValue('gap')) || 0;
-    var tiles = grid.querySelectorAll('.photo-tile');
 
-    // Reset first so measurements reflect natural content height, not a
-    // stale span from a previous (e.g. pre-resize) layout pass.
-    tiles.forEach(function (tile) {
-      tile.style.gridRowEnd = 'auto';
-    });
+    grid.querySelectorAll('.photo-tile').forEach(function (tile) {
+      var img = tile.querySelector('img');
+      if (!img || !img.naturalWidth) return;
 
-    tiles.forEach(function (tile) {
-      var contentHeight = tile.getBoundingClientRect().height;
-      var span = Math.ceil((contentHeight + rowGap) / (rowHeight + rowGap));
+      var figcaption = tile.querySelector('figcaption');
+      var tileWidth = tile.getBoundingClientRect().width;
+      var imgHeight = tileWidth * (img.naturalHeight / img.naturalWidth);
+      var captionHeight = 0;
+      if (figcaption) {
+        var capStyles = getComputedStyle(figcaption);
+        captionHeight = figcaption.getBoundingClientRect().height + parseFloat(capStyles.marginTop || 0);
+      }
+
+      var totalHeight = imgHeight + captionHeight;
+      var span = Math.ceil((totalHeight + rowGap) / (rowHeight + rowGap));
       tile.style.gridRowEnd = 'span ' + span;
     });
   }
