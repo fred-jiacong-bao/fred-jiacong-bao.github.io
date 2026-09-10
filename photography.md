@@ -4,6 +4,8 @@ layout: photography
 permalink: /photography/
 ---
 
+<div class="section-title section-title-first"><span>Wildlife</span></div>
+
 {% assign wl = site.data.photography.wildlife %}
 <section class="photo-section">
   {% if wl.hero %}

@@ -99,6 +99,10 @@ html, body {
   white-space: nowrap;
 }
 
+.section-title-first {
+  margin-top: 4vh;
+}
+
 /* ---- hero image ---- */
 
 .photo-hero {
@@ -131,7 +135,8 @@ html, body {
 .photo-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 4px;
+  align-items: start;
+  gap: 4px 4px;
   padding: 4px;
 }
 
@@ -142,8 +147,7 @@ html, body {
 
 .photo-tile img {
   width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
+  height: auto;
   display: block;
   filter: brightness(0.96);
   transition: filter 0.25s ease;
