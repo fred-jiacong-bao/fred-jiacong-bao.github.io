@@ -1,8 +1,14 @@
 title: Jiacong (Fred) Bao
 theme: jekyll-theme-minimal
 
-description: >-
-  Jiacong (Fred) Bao — PhD Candidate in Operations Management, Robert H. Smith
-  School of Business, University of Maryland.
-  
+logo: image/jiacong_bao.jpg
 
+description: |
+  <p>PhD Candidate in Operations Management, University of Maryland</p>
+  <p class="chinese-verse">唤起一天明月，照我满怀冰雪，浩荡百川流</p>
+
+  <h3>Contact</h3>
+  <p><i class='fas fa-map-marker-alt'></i> College Park, Maryland</p>
+  <p><i class='fas fa-envelope'></i> <a href='mailto:jcbao@umd.edu'>jcbao@umd.edu</a></p>
+  <p><i class='fab fa-linkedin'></i> <a href='https://www.linkedin.com/in/fred-bao/'>LinkedIn</a></p>
+  <p><i class='fas fa-graduation-cap'></i> <a href='https://scholar.google.com/citations?user=FBCYhD0AAAAJ&hl=en'>Google Scholar</a></p>

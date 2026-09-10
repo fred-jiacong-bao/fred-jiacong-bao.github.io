@@ -1,5 +1,3 @@
-<img src="image/jiacong_bao.jpg" alt="Jiacong (Fred) Bao" class="circular-image left-content">
-
 ## About Me
 Hi! I'm Jiacong "Fred" Bao (鲍嘉聪), a 5th-year PhD candidate in Operations Management/Management Science at the Robert H. Smith School of Business, University of Maryland.
 
@@ -7,8 +5,6 @@ I conduct empirical research in social impact areas, including child labor, orga
 I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra.
 
 I'm on the 2026-2027 academic job market.
-
-<p class="chinese-verse">唤起一天明月，照我满怀冰雪，浩荡百川流</p>
 
 ## Working Papers
 1. [*"Child Labor Violations and Supply Chain Restructuring in the United States."*]() \
@@ -58,9 +54,3 @@ I'm on the 2026-2027 academic job market.
 ## Awards
    1. 2026 Long Jiang Graduate Student Fellowship, Robert H. Smith School of Business, University of Maryland
    2. 2025 POMS College of Sustainable Operations Student Paper Award - Second Place
-
-## Contact
-<p><i class='fas fa-map-marker-alt'></i> College Park, Maryland</p>
-<p><i class='fas fa-envelope'></i> <a href='mailto:jcbao@umd.edu'>jcbao@umd.edu</a></p>
-<p><i class='fab fa-linkedin'></i> <a href='https://www.linkedin.com/in/fred-bao/'>LinkedIn</a></p>
-<p><i class='fas fa-graduation-cap'></i> <a href='https://scholar.google.com/citations?user=FBCYhD0AAAAJ&hl=en'>Google Scholar</a></p>
