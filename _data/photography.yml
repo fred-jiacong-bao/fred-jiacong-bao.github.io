@@ -20,6 +20,8 @@ wildlife:
       caption: Lajes do Pico, Azores, Portugal
     - file: wildlife-dolphins-pico.jpg
       caption: Lajes do Pico, Azores, Portugal
+    - file: wildlife-jellyfish-pico.jpg
+      caption: Lajes do Pico, Azores, Portugal
     - file: wildlife-sheep.jpg
       caption: Isle of Skye, Scotland
     - file: wildlife-llama-machu-picchu.jpg
@@ -72,9 +74,11 @@ landscape:
       caption: Xinjiang, China
     - file: landscape-21-machu-picchu.jpg
       caption: Machu Picchu, Peru
-    - file: landscape-22-denali.jpg
+    - file: landscape-22-maras-salt-pans.jpg
+      caption: Salineras de Maras, Peru
+    - file: landscape-23-denali.jpg
       caption: Denali, Alaska
-    - file: landscape-23-alaska-glacier.jpg
+    - file: landscape-24-alaska-glacier.jpg
       caption: Kenai Fjords, Alaska
-    - file: landscape-24-atlantic-coast.jpg
+    - file: landscape-25-atlantic-coast.jpg
       caption: Cascais, Portugal
