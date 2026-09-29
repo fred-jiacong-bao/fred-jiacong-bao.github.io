@@ -11,7 +11,6 @@ I'm on the 2026-2027 academic job market.
    with Elmaghraby, Wedad, and Kabra, Ashish.
    - **Job Market Paper.**
    - In preparation for submission to *Management Science*.
-   - Abstract: Examines how child labor violations at tier-1 suppliers reshape buyers' supply chains and subsequent exposure to child labor risk. The study shows that violations trigger broader supplier restructuring and that terminating violating suppliers reduces future exposure to child labor violations. Yet despite termination's effectiveness, firms with fewer viable alternatives are less likely to terminate violating suppliers, highlighting how supplier market accessibility constrains buyer responses.
    - Presented at:
       - 2026 POMS, MSOM annual conferences;
       - 2026 INFORMS Annual Meeting, Job Market Showcase (Forthcoming). Session: *Responsible Operations, Supply Chains, and Social Impact*. Sunday, November 1, 2:45–3:03 PM, Moscone South, Room 207, Level 2, San Francisco.
@@ -19,12 +18,12 @@ I'm on the 2026-2027 academic job market.
 2. [*"State Mandated Employment Certificate for Minors Reduces Child Labor Violations in the US."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857432) Available at SSRN 4857432 (2024). \
    with Kabra, Ashish.
    - Conditionally accepted at *Production and Operations Management (POM)*.
-   - Abstract: Shows that state requirements of minor Employment Certificates reduce child labor violations, informing ongoing state debates over weakening these requirements.
    - 2025 POMS College of Sustainable Operations Student Paper Award - Second Place
    - Presented at:
       - 2023 POMS, INFORMS annual conferences;
       - 2024 POMS, INFORMS, MSOM annual conferences; Early-Career Sustainable Operations Workshop (Flash talk);
-      - 2025 POMS, INFORMS, MSOM (Sustainable Operations SIG) annual conferences.
+      - 2025 POMS, INFORMS, MSOM (Sustainable Operations SIG) annual conferences;
+      - 2026 HOPE Workshop; WEOM (presented by coauthor).
    - Media: [*Route Fifty*](https://www.route-fifty.com/workforce/2024/06/work-permits-readily-implemented-lever-reducing-illegal-child-labor/397288/),
      [*Economic Policy Institute.1*](https://www.epi.org/blog/more-states-have-strengthened-child-labor-laws-than-weakened-them-in-2024-this-year-state-advocates-were-better-equipped-to-organize-in-opposition-to-harmful-bills/),
      [*Economic Policy Institute.2*](https://www.epi.org/blog/new-research-shows-that-work-permits-reduce-child-labor-violations-state-legislators-must-strengthen-not-eliminate-youth-work-permits/),
@@ -40,35 +39,26 @@ I'm on the 2026-2027 academic job market.
    with Ma, Qiwei, Qiu, Yunzhe, Koizumi, Naoru, Li, Meng-Hao, and Fu, Michael. \
    This work was supported in part by the National Science Foundation (NSF) under Grants IIS-2123683 and IIS-2123684.
    - Under review at *Manufacturing & Service Operations Management (M&SOM)*.
-   - Abstract: Shows that critical care capacity (ICU) constrains hospitals' acceptance of deceased donor kidney offers, potentially leading to the discard of life-saving organs.
    - Presented at:
       - 2025 MSOM annual conference (Poster session).
 
 4. *"Optimal Effort Under Max-Operator Pay-For-Performance."* \
    with Silberholz, John, and Fu, Michael.
    - Work in progress.
-   - Abstract: Using a principal-agent framework, we characterize transplant centers' optimal effort under CMS's IOTA scoring rule across ability levels, highlighting how the scoring design may create unintended effects.
 
 5. *"Staffing Agency Outsourcing and Child Labor Violations in the United States."* \
    with Kabra, Ashish.
    - Work in progress.
-   - Abstract: Examines how staffing agencies connect to child labor violations as firms increasingly outsource hiring. Informs regulators on targeted enforcement and joint-employer liability for hiring through intermediaries.
 
 6. *"Large-Scale Prediction of Child Labor Violations Across the US."* \
    with Elmaghraby, Wedad, and Kabra, Ashish.
    - Work in progress.
-   - Abstract: Combines diverse data sources to predict the footprint of child labor violations across the US, identify the incentives behind them, and inform targeted enforcement.
 
 ## Other Interdisciplinary Research
 1. *"Hospital Performance Impact on Deceased Donor Kidney Offer Acceptance."* \
    with Koizumi, Naoru, Li, Meng-Hao, and Fu, Michael.
    - Under review at *Frontiers in Nephrology*, Kidney Transplantation section.
-   - Abstract: Shows that transplant centers flagged as performance-deficient under federal oversight are less likely to accept deceased donor kidney offers, suggesting potential unintended consequences.
 
 ## Awards
    1. 2026 Long Jiang Graduate Student Fellowship, Robert H. Smith School of Business, University of Maryland
    2. 2025 POMS College of Sustainable Operations Student Paper Award - Second Place
-   3. 2021 Outstanding Supply Chain Management Student Award, Washington University in Saint Louis
-   4. 2021 Project of the Year, Boeing Center for Supply Chain Innovation, Washington University in Saint Louis
-   5. 2020 Unilever Industrial Automation Hackathon - National Round Winner
-   6. 2019 ASCM Case Competition - School Round Winner
