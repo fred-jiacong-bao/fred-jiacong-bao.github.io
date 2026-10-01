@@ -15,7 +15,7 @@ I'm on the 2026-2027 academic job market.
       - 2026 POMS, MSOM annual conferences;
       - 2026 INFORMS Annual Meeting, Job Market Showcase (Forthcoming). Session: *Responsible Operations, Supply Chains, and Social Impact*. Sunday, November 1, 2:45–3:03 PM, Moscone South, Room 207, Level 2, San Francisco.
 
-2. [*"State Mandated Employment Certificate for Minors Reduces Child Labor Violations in the US."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857432) Available at SSRN 4857432 (2024). \
+2. [*"State Mandated Employment Certificate for Minors Reduces Child Labor Violations in the United States."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857432) Available at SSRN 4857432 (2024). \
    with Kabra, Ashish.
    - Conditionally accepted at *Production and Operations Management (POM)*.
    - 2025 POMS College of Sustainable Operations Best Student Paper Award - Second Place
