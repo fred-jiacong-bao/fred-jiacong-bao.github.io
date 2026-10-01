@@ -34,7 +34,7 @@ I'm on the 2026-2027 academic job market.
      [*The Century Foundation*](https://tcf.org/content/report/state-playbook-how-states-can-lead-the-way-for-workers/)
    - Legislation: Cited in [*Arkansas HB 1731*](https://www.billtrack50.com/billdetail/1858937); referenced in committee testimony for [*Michigan HB 5727*](https://www.house.mi.gov/Document/?DocumentId=70853&DocumentType=CommitteeTestimony) and [*Ohio SB 455*](https://policymattersohio.org/wp-content/uploads/2026/06/Amend-SB-455-Child-Labor.pdf)
 
-3. [*"The Impact of ICU Occupancy on Deceased Donor Kidney Offer Acceptance Decisions."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145786)
+3. [*"When Capacity Constrains Care: ICU Capacity Constraints in Kidney Offer Acceptance Decisions."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145786)
    Available at SSRN 5145786 (2025). \
    with Ma, Qiwei, Qiu, Yunzhe, Koizumi, Naoru, Li, Meng-Hao, and Fu, Michael. \
    This work was supported in part by the National Science Foundation (NSF) under Grants IIS-2123683 and IIS-2123684.
