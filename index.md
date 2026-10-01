@@ -18,7 +18,7 @@ I'm on the 2026-2027 academic job market.
 2. [*"State Mandated Employment Certificate for Minors Reduces Child Labor Violations in the US."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857432) Available at SSRN 4857432 (2024). \
    with Kabra, Ashish.
    - Conditionally accepted at *Production and Operations Management (POM)*.
-   - 2025 POMS College of Sustainable Operations Student Paper Award - Second Place
+   - 2025 POMS College of Sustainable Operations Best Student Paper Award - Second Place
    - Presented at:
       - 2023 POMS, INFORMS annual conferences;
       - 2024 POMS, INFORMS, MSOM annual conferences; Early-Career Sustainable Operations Workshop (Flash talk);
@@ -61,4 +61,4 @@ I'm on the 2026-2027 academic job market.
 
 ## Awards
    1. 2026 Long Jiang Graduate Student Fellowship, Robert H. Smith School of Business, University of Maryland
-   2. 2025 POMS College of Sustainable Operations Student Paper Award - Second Place
+   2. 2025 POMS College of Sustainable Operations Best Student Paper Award - Second Place
