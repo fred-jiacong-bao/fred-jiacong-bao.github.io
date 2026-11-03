@@ -6,16 +6,8 @@ I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra.
 
 I'm on the 2026-2027 academic job market.
 
-## Working Papers
-1. *"Child Labor Violations and Supply Chain Restructuring in the United States."* \
-   with Elmaghraby, Wedad, and Kabra, Ashish.
-   - **Job Market Paper.**
-   - In preparation for submission to *Management Science*.
-   - Presented at:
-      - 2026 POMS, MSOM annual conferences;
-      - 2026 INFORMS Annual Meeting, Job Market Showcase (Forthcoming). Session: *Responsible Operations, Supply Chains, and Social Impact*. Sunday, November 1, 2:45–3:03 PM, Moscone South, Room 207, Level 2, San Francisco.
-
-2. [*"State Mandated Employment Certificate for Minors Reduces Child Labor Violations in the United States."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857432) Available at SSRN 4857432 (2024). \
+## Publications
+1. [*"State Mandated Employment Certificate for Minors Reduces Child Labor Violations in the United States."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857432) Available at SSRN 4857432 (2024). \
    with Kabra, Ashish.
    - Accepted for publication at *Production and Operations Management (POM)*.
    - 2025 POMS College of Sustainable Operations Best Student Paper Award - Second Place
@@ -34,7 +26,16 @@ I'm on the 2026-2027 academic job market.
      [*The Century Foundation*](https://tcf.org/content/report/state-playbook-how-states-can-lead-the-way-for-workers/)
    - Legislation: Cited in [*Arkansas HB 1731*](https://www.billtrack50.com/billdetail/1858937); referenced in committee testimony for [*Michigan HB 5727*](https://www.house.mi.gov/Document/?DocumentId=70853&DocumentType=CommitteeTestimony) and [*Ohio SB 455*](https://policymattersohio.org/wp-content/uploads/2026/06/Amend-SB-455-Child-Labor.pdf)
 
-3. [*"When Capacity Constrains Care: ICU Capacity Constraints in Kidney Offer Acceptance Decisions."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145786)
+## Working Papers
+1. *"Child Labor Violations and Supply Chain Restructuring in the United States."* \
+   with Elmaghraby, Wedad, and Kabra, Ashish.
+   - **Job Market Paper.**
+   - In preparation for submission to *Management Science*.
+   - Presented at:
+      - 2026 POMS, MSOM annual conferences;
+      - 2026 INFORMS Annual Meeting, Job Market Showcase. Session: *Responsible Operations, Supply Chains, and Social Impact*. San Francisco.
+
+2. [*"When Capacity Constrains Care: ICU Capacity Constraints in Kidney Offer Acceptance Decisions."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145786)
    Available at SSRN 5145786 (2025). \
    with Ma, Qiwei, Qiu, Yunzhe, Koizumi, Naoru, Li, Meng-Hao, and Fu, Michael. \
    This work was supported in part by the National Science Foundation (NSF) under Grants IIS-2123683 and IIS-2123684.
@@ -42,15 +43,15 @@ I'm on the 2026-2027 academic job market.
    - Presented at:
       - 2025 MSOM annual conference (Poster session).
 
-4. *"Optimal Effort Under Max-Operator Pay-For-Performance."* \
+3. *"Optimal Effort Under Max-Operator Pay-For-Performance."* \
    with Silberholz, John, and Fu, Michael.
    - Work in progress.
 
-5. *"Staffing Agency Outsourcing and Child Labor Violations in the United States."* \
+4. *"Staffing Agency Outsourcing and Child Labor Violations in the United States."* \
    with Kabra, Ashish.
    - Work in progress.
 
-6. *"Large-Scale Prediction of Child Labor Violations Across the US."* \
+5. *"Large-Scale Prediction of Child Labor Violations Across the US."* \
    with Elmaghraby, Wedad, and Kabra, Ashish.
    - Work in progress.
 

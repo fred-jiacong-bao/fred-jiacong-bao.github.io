@@ -9,7 +9,7 @@ permalink: /teaching-and-service/
    2. BMGT230 Business Statistics (Instructor), UMD, Summer 2025. Course Evaluation: 3.5/4
 
 ## Selected Talks
-   - **2026:** INFORMS Annual Meeting - Job Market Showcase (Forthcoming); HOPE Workshop; MSOM Annual Meeting; POMS Annual Meeting†; WEOM (presented by coauthor)
+   - **2026:** INFORMS Annual Meeting - Job Market Showcase; HOPE Workshop; MSOM Annual Meeting; POMS Annual Meeting†; WEOM (presented by coauthor)
    - **2025:** INFORMS Annual Meeting†; MSOM Annual Meeting - Sustainable SIG; POMS Annual Meeting
    - **2024:** INFORMS Annual Meeting; MSOM Annual Meeting; POMS Annual Meeting; Early-Career Sustainable Operations Workshop
    - **2023:** INFORMS Annual Meeting; POMS Annual Meeting
