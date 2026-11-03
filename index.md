@@ -17,7 +17,7 @@ I'm on the 2026-2027 academic job market.
 
 2. [*"State Mandated Employment Certificate for Minors Reduces Child Labor Violations in the United States."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857432) Available at SSRN 4857432 (2024). \
    with Kabra, Ashish.
-   - Conditionally accepted at *Production and Operations Management (POM)*.
+   - Accepted for publication at *Production and Operations Management (POM)*.
    - 2025 POMS College of Sustainable Operations Best Student Paper Award - Second Place
    - Presented at:
       - 2023 POMS, INFORMS annual conferences;
