@@ -7,7 +7,7 @@ I am advised by Dr. Michael C. Fu and Dr. Ashish Kabra.
 I'm on the 2026-2027 academic job market.
 
 ## Publications
-1. [*"State Mandated Employment Certificate for Minors Reduces Child Labor Violations in the United States."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857432) Available at SSRN 4857432 (2024). \
+1. [*"The Effect of State-Mandated Employment Certificates on Child Labor Violations in the United States."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4857432) Available at SSRN 4857432 (2024). \
    with Kabra, Ashish.
    - Accepted for publication at *Production and Operations Management (POM)*.
    - 2025 POMS College of Sustainable Operations Best Student Paper Award - Second Place
@@ -51,7 +51,7 @@ I'm on the 2026-2027 academic job market.
    with Kabra, Ashish.
    - Work in progress.
 
-5. *"Large-Scale Prediction of Child Labor Violations Across the US."* \
+5. *"Granular Prediction of Child Labor Violation Risk Across the US."* \
    with Elmaghraby, Wedad, and Kabra, Ashish.
    - Work in progress.
 
@@ -61,5 +61,6 @@ I'm on the 2026-2027 academic job market.
    - Under review at *Frontiers in Nephrology*, Kidney Transplantation section.
 
 ## Awards
-   1. 2026 Long Jiang Graduate Student Fellowship, Robert H. Smith School of Business, University of Maryland
-   2. 2025 POMS College of Sustainable Operations Best Student Paper Award - Second Place
+   1. 2026 Michael Ball Endowed Ph.D. Fellowship in Business, Robert H. Smith School of Business, University of Maryland
+   2. 2026 Long Jiang Graduate Student Fellowship, Robert H. Smith School of Business, University of Maryland
+   3. 2025 POMS College of Sustainable Operations Best Student Paper Award - Second Place
