@@ -195,3 +195,26 @@ html, body {
 .photo-main {
   padding-bottom: 10vh;
 }
+
+/* ---- photo credits ---- */
+
+.photo-byline {
+  margin: 7vh auto 0;
+  padding: 0 1.5rem;
+  text-align: center;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  font-weight: 300;
+  font-size: 1rem;
+  letter-spacing: 0.04em;
+  color: rgba(242, 240, 236, 0.6);
+}
+
+.photo-footer {
+  padding: 0 1.5rem 6vh;
+  text-align: center;
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(242, 240, 236, 0.45);
+}

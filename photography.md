@@ -1,8 +1,10 @@
 ---
-title: Photography
+title: My Photography
 layout: photography
 permalink: /photography/
 ---
+
+<p class="photo-byline">All photographs by Jiacong (Fred) Bao</p>
 
 <div class="section-title section-title-first"><span>Wildlife</span></div>
 
