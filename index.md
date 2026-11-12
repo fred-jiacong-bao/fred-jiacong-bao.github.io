@@ -39,7 +39,7 @@ I'm on the 2026-2027 academic job market.
    Available at SSRN 5145786 (2025). \
    with Ma, Qiwei, Qiu, Yunzhe, Koizumi, Naoru, Li, Meng-Hao, and Fu, Michael. \
    This work was supported in part by the National Science Foundation (NSF) under Grants IIS-2123683 and IIS-2123684.
-   - Under review at *Manufacturing & Service Operations Management (M&SOM)*.
+   - Major revision at *Manufacturing & Service Operations Management (M&SOM)*.
    - Presented at:
       - 2025 MSOM annual conference (Poster session).
 
